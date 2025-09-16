@@ -1,2 +1,2 @@
 # Tip-Calculator
-This project uses Python to create a tip calculator 
+This project uses Python to create a tip calculator using Python
